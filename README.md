@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # NewGram
 <div align="center">
   <br />
